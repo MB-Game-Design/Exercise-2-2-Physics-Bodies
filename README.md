@@ -1,4 +1,4 @@
-# Exercise 2.2—Physics Bodies
+# Exercise 2.2—Physics Bodieshttps://github.com/MB-Game-Design/Exercise-2-2-Physics-Bodies/tree/main
 
 Exercise for MSCH-C220
 
@@ -73,5 +73,5 @@ None
 None
 
 ## Created by
-Jason Francis
+Mars Bailey
 ```
